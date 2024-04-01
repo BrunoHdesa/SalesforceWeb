@@ -1,23 +1,20 @@
 export const colors = {
     primary: {
-      main: "#FFC00C",
+      main: "#003683",
     },
     secondary: {
-      main: "#B2AFA8",
+      main: "#00A0E2",
     },
     text: {
       main: "#3A3222",
       title: "#272a50",
     },
     button: {
-      main: "#2E844A",
-      hover:"#327849"
+      main: "#003683",
+      hover:"#00A0E2"
     },
     subtitle: {
       main: "#003056"
-    },
-    backgound: {
-      main: "#B0D4F0",
     },
     commom: {
       white: "#ffffff",
