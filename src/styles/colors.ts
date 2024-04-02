@@ -16,6 +16,9 @@ export const colors = {
     subtitle: {
       main: "#003056"
     },
+    backgound: {
+      main: "#93D8F5",
+    },
     commom: {
       white: "#ffffff",
       black: "#000000",
